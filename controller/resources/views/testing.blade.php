@@ -1,0 +1,1 @@
+<h1>Single contorller Action </h1>
